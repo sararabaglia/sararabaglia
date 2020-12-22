@@ -184,7 +184,7 @@ void a() {
   outputFile->Close();
     
     // Launch the GUI for the root macros
-    TMVA::TMVAGui("TMVAOutputCV.root");
+    //TMVA::TMVAGui("TMVAOutputCV.root");
    
 
 }
